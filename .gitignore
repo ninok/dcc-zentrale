@@ -15,4 +15,14 @@
 *.exe
 *.out
 *.app
+*.d
+*.eep
+*.elf
+*.hex
+*.lss
+*.lst
+*.map
+*.sym
+
+
 ATMega644P.pdf
