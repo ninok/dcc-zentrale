@@ -1,0 +1,3 @@
+ATmega16	http://www.atmel.com/Images/doc2466.pdf
+ATmega644P	http://www.atmel.com/Images/doc8011.pdf
+L6203		http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000089.pdf
